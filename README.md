@@ -1,4 +1,7 @@
-# api documentation for  [react-redux-form (v1.10.2)](https://github.com/davidkpiano/react-redux-form#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-redux-form.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-redux-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-redux-form.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-redux-form)
+# npmdoc-react-redux-form
+
+#### basic api documentation for  [react-redux-form (v1.11.0)](https://github.com/davidkpiano/react-redux-form#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-redux-form.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-redux-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-redux-form.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-redux-form)
+
 #### Create Forms Easily with React and Redux
 
 [![NPM](https://nodei.co/npm/react-redux-form.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-redux-form)
@@ -79,10 +82,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "6852367d5b9b90327854d49abec178952a2a4fa0",
-        "tarball": "https://registry.npmjs.org/react-redux-form/-/react-redux-form-1.10.2.tgz"
+        "shasum": "81dd698a01687d81772381f792f7aa474de9ab80",
+        "tarball": "https://registry.npmjs.org/react-redux-form/-/react-redux-form-1.11.0.tgz"
     },
-    "gitHead": "7581ae636b5447988e269770d844a348544b3b90",
+    "gitHead": "a8ff29d3f4fa5eb18bc970783d725238d4a1f07e",
     "homepage": "https://github.com/davidkpiano/react-redux-form#readme",
     "keywords": [
         "redux",
@@ -135,7 +138,8 @@
         "tsdef": "cp -f immutable.d.ts lib/"
     },
     "typings": "react-redux-form.d.ts",
-    "version": "1.10.2"
+    "version": "1.11.0",
+    "bin": {}
 }
 ```
 
